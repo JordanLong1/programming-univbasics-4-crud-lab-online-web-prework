@@ -27,7 +27,7 @@ raiders_team.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-best_friends["conor", "alberto"]
+best_friends = ["conor", "alberto"]
 best_friends[1]
 end
 
