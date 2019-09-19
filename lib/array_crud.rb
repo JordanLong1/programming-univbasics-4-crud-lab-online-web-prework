@@ -37,7 +37,7 @@ study_session[0]
 end
 
 def retrieve_last_element_from_array(array)
-california_rappers = ["tupac", "dre"]
+california_rappers = ["tupac", "arrays!"]
 california_rappers[1]
 end
 
