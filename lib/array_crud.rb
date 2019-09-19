@@ -42,5 +42,6 @@ california_rappers[1]
 end
 
 def update_element_from_index(array, index_number, element)
-
+lunch_options = ["bear", "banshee", "kinders"]
+lunch_options[2] = "In n out"
 end
