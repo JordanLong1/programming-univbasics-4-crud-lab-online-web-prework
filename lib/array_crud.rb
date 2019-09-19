@@ -22,7 +22,7 @@ grocery_list.pop
 end
 
 def remove_element_from_start_of_array(array)
-raiders_team = ["derek carr", "jacobs"]
+raiders_team = ["wow", "jacobs"]
 raiders_team.shift
 end
 
