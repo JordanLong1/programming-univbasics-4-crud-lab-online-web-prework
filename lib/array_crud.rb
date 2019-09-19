@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-
+["Peanut Butter"] add_element_to_end_of_array.push("Jelly")
 end
 
 def add_element_to_start_of_array(array, element)
