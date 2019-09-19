@@ -32,7 +32,7 @@ best_friends[0]
 end
 
 def retrieve_first_element_from_array(array)
-study_session = ["library", "laptop"]
+study_session = ["wow", "laptop"]
 study_session[0]
 end
 
